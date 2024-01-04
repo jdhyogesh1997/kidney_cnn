@@ -13,3 +13,7 @@
 9. Update the dvc.yaml
 10. app.py
 
+
+# Source Video
+link: https://youtu.be/86BKEv0X2xU?si=UpbH-J5gNtYruCv4
+Progress: 3rd Jan 2024 - 1:04:02 timestamp
